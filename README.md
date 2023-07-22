@@ -17,6 +17,7 @@ You can submit your entry [here](https://forms.gle/6jjj8jxNQ5Ln53ie6).
 ## How to Participate
 * Install an IDE such as [Visual Studio](https://visualstudio.microsoft.com/downloads/).
 * Install [.NET 6.0](https://dotnet.microsoft.com/en-us/download)
+* (VSCode optional) configure nuget `dotnet nuget add source "https://api.nuget.org/v3/index.json" --name "NuGet.org"`
 * Download this repository and open the Chess-Challenge project in your IDE.
 * Try building and running the project.
   * If a window with a chess board appears — great!
